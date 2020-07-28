@@ -1,8 +1,8 @@
 ### Hi there! 😁
 
-My name is Altamir Bitencourt Junior from Brazil (🇧🇷). I've been working as Full-Stack Developer in focus hardware integration.
+My name is Altamir Bitencourt Junior from Brazil (🇧🇷). I've been working as Full-Stack Developer with a focus on hardware integration.
 
-In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+In my free time, I like watching movies (🎞️) and series (📺), reading books (📚), listening to music (🎵), playing music instruments (🎷), finally, I like to philosophize about life with a nice coffee (☕).
 
 Would you like to find me?
 
